@@ -21,5 +21,10 @@ Next.js는 React 기반의 웹 애플리케이션을 쉽게 개발할 수 있도
    
 
 ## next.js 설치
-`npx create-next-app@latest`
-N/Y/N/Y/Y/Y/-
+`npx create-next-app@latest`   
+N/Y/N/Y/Y/Y/-   
+   
+gsap 설치 `npm install gsap`   
+sass 설치 `npm install sass`   
+lenis 설치 `npm install @studio-freight/lenis`   
+
